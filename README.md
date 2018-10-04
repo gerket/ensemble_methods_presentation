@@ -1,2 +1,3 @@
-# project_5
-Topic Discussion 
+# Ensemble Methods: Bagging and Boosting
+## Project 5: Topic Discussions
+
